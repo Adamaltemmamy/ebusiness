@@ -125,3 +125,29 @@
     margin-top: 15px;
     color: rgb(0, 136, 255);  
  }
+ .div1{
+    display: flex;
+    align-items: center;
+   gap: 20px;
+    list-style: none;
+    font-size: 20px;
+    color: rgb(0, 123, 255);
+    position: relative; /* Positions relative to its normal flow position */
+        left: 25px;
+        bottom: 130px;
+        font-size: 40px;
+       gap: 45px;
+ }
+.div2{
+    display: flex;
+    align-items: center;
+   gap: 20px;
+    list-style: none;
+    font-size: 20px;
+    color: rgb(0, 123, 255);
+    position: relative; /* Positions relative to its normal flow position */
+       right: 370px;
+       top: 50px;
+        font-size: 14px;
+       gap: 40px;
+ }
